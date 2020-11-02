@@ -1,0 +1,9 @@
+.border {
+  max-width: 100px;
+  height: 100px;
+}
+
+.statement {
+  min-width: 150px;
+  max-height: 38px;
+}
